@@ -1,0 +1,46 @@
+# Compiled Object files
+*.suo
+*.obj
+*.pdb
+
+# Compiled Dynamic Link Library
+*.dll
+
+# Compiled Static libraries
+*.lib
+
+# Executables
+*.exe
+
+# Compiled files
+*.sbr
+
+# Backup & temporary files
+*~
+*.swp
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
