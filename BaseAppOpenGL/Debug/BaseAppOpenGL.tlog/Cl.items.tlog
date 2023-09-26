@@ -1,17 +1,17 @@
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CCamera.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CCamera.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CModel_3DS.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CModel_3DS.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CShaderManager.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CShaderManager.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CTerreno.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CTerreno.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CTexto.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CTexto.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CTexture.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CTexture.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\CTimer.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\CTimer.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\GLTexture.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\GLTexture.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Helpers.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Helpers.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Main.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Main.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Scene1.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Scene1.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Scene2.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Scene2.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Scene3.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Scene3.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Scene4.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Scene4.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\SceneBaseClass.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\SceneBaseClass.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\SceneManager.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\SceneManager.obj
-C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Stack.cpp;C:\Users\leona\OneDrive\Área de Trabalho\Lista de Exercicios (Leonardo do Prado)\BaseAppOpenGL\Debug\Stack.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CCamera.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CCamera.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CModel_3DS.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CModel_3DS.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CShaderManager.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CShaderManager.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CTerreno.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CTerreno.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CTexto.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CTexto.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CTexture.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CTexture.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\CTimer.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\CTimer.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\GLTexture.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\GLTexture.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Helpers.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Helpers.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Main.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Main.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Scene1.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Scene1.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Scene2.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Scene2.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Scene3.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Scene3.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Scene4.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Scene4.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\SceneBaseClass.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\SceneBaseClass.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\SceneManager.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\SceneManager.obj
+C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Stack.cpp;C:\Users\leona\OneDrive\Área de Trabalho\a\computacao_grafica\BaseAppOpenGL\Debug\Stack.obj
